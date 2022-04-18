@@ -1,0 +1,43 @@
+table {
+    border-collapse: separate;
+    border-spacing: 15 0px;
+    width: 100%;
+}
+
+th {
+    background-color: #06398b;
+    font-size: 20px;
+    color: white;
+}
+
+th,td {
+    width: 150px;
+    text-align: center;
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 5px;
+    font-style: oblique;
+}
+
+.data:hover {
+    background-color: rgba(102, 182, 158, 0.664);
+}
+
+.subcat {
+    background-color: #3460b1;
+}
+.ecell{
+    background-color: rgba(255, 255, 255, 0);
+}
+.credit{
+    position:fixed;
+    bottom: 0;
+    right: 0;
+    font-style: oblique;
+    margin-right: 10px;
+}
+@media only screen and (max-width: 550px) {
+    th {
+        font-size: 15px;
+    }
+}
