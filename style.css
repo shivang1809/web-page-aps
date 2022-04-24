@@ -7,6 +7,7 @@ table {
     border-collapse: separate;
     border-spacing: 15 0px;
     width: 100%;
+    margin-top: 10px;
 }
 
 th {
@@ -46,7 +47,7 @@ td {
 }
 
 .navbar {
-    background-color: rgb(4, 114, 150);
+    background-color: #3460b1;
     border-radius: 4px;
 }
 
@@ -118,9 +119,6 @@ td {
 }
 @media only screen and (max-width: 576px){
     .container{max-width: 540px;}
-}
-@media only screen and (max-width: 530px){
-    .container{max-width: 98%;}
 }
 
 @media only screen and (max-width: 550px) {
