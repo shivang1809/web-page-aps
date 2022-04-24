@@ -95,13 +95,13 @@ td {
 
 @keyframes animation1 {
     from {
-        background-color: rgb(4, 114, 150);
+        background-color: #3460b1;
         color: white
     }
 
     to {
         background-color: white;
-        color: black;
+        color: #3460b1;
     }
 }
 .container{
