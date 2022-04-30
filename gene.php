@@ -22,9 +22,9 @@ fwrite($fptr,'<!DOCTYPE html>
                 <img src="./image/bar.png" class="bar2" id="bar2" width="50px" onclick="navFunction1()">
                 <div class="linkbox" id="linkbox">
                 <li><a href="#">Home</a></li>
-                <li><a href="#">About</a></li>
-                <li><a href="#">Services</a></li>
-                <li><a href="#">Contact</a></li>
+                <li><a href="#">Objective</a></li>
+                <li><a href="#">Vision</a></li>
+                <li><a href="#">Alumni</a></li>
                 </div>
             </ul>
         </nav>
