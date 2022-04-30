@@ -19,17 +19,16 @@ fwrite($fptr,'<!DOCTYPE html>
                 <h2>Jalandhar Cantt</h2>
                 </div>
                 <img src="./image/bar.png" class="bar" id="bar" width="50px" onclick="navFunction()">
-                <img src="./image/cross.png" class="bar2" id="bar2" width="50px" onclick="navFunction1()">
+                <img src="./image/bar.png" class="bar2" id="bar2" width="50px" onclick="navFunction1()">
                 <div class="linkbox" id="linkbox">
                 <li><a href="#">Home</a></li>
-                <li><a href="#">Objective</a></li>
-                <li><a href="#">Vision</a></li>
-                <li><a href="#">Alumni</a></li>
+                <li><a href="#">About</a></li>
+                <li><a href="#">Services</a></li>
+                <li><a href="#">Contact</a></li>
                 </div>
             </ul>
         </nav>
     </header>
-    <p class="credit">Designed By: Shivang Yadav</p>
     <div class="container">
         <table align="center">
             <tr>
@@ -202,6 +201,10 @@ fwrite($fptr,'<!DOCTYPE html>
         </tr>
     </table>
 </div>
+<footer>
+    <p>©APSJalandharCantt'.date("Y").'</p>
+    <p class="credit">Designed By: Shivang Yadav</p>
+</footer>
 </body>
 
 </html>');

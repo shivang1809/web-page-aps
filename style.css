@@ -38,12 +38,15 @@ td {
     background-color: rgba(255, 255, 255, 0);
 }
 
-.credit {
-    position: fixed;
-    bottom: 0;
-    right: 0;
+footer .credit {
     font-style: oblique;
-    margin-right: 10px;
+}
+footer{
+    text-align: center;
+    background-color: #3460b1;
+    border-radius: 4px;
+    color: white;
+    padding: 20px;
 }
 
 .navbar {
