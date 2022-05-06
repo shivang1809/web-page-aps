@@ -48,7 +48,9 @@ footer{
     color: white;
     padding: 20px;
 }
-
+h1{
+    font-size: 30px;
+}
 .navbar {
     background-color: #3460b1;
     border-radius: 4px;
